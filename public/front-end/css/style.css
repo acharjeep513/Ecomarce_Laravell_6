@@ -1,0 +1,10 @@
+@import url(bootstrap.min.css);
+@import url(bootstrap.css);
+
+.input-qtn{
+    width: 80px !important;
+}
+body{
+    font-family: Serif !important;
+    color: black !important;
+}
